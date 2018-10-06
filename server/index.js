@@ -13,7 +13,6 @@ function toto() {
 
 toto();
 
-
 /*
 // L'absence du var change tout !
 var buu = 1;
